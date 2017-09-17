@@ -1,5 +1,3 @@
-reload = true;
-
 function autoPageReloader(time) {
     time = (typeof time !== 'undefined') ?  time : 3000;
     reloadTimeOut = setTimeout(function () {
