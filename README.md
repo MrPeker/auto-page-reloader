@@ -31,6 +31,6 @@ Author
 
 Mehmet Ali Peker <maps6134@gmail.com>
 
-Author
+Note
 -------------
 Please star this repository and share
